@@ -5,13 +5,19 @@
 The purpose of this project is to perform a multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes. We also collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots, run t-tests to determine if the manufacturing lots are statistically different from the mean population, design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 ### Resources 
-Data - MechaCar_mpg.csv
-Suspension_Coil.csv
+# Data
+[MechaCar_mpg.csv](https://github.com/CorinneBean/MechaCar_Statistical_Analysis/blob/4b3b19e0125b4d7f4aa4dd8671b6c2c2db73a761/Resources/MechaCar_mpg.csv)
+[Suspension_Coil.csv](https://github.com/CorinneBean/MechaCar_Statistical_Analysis/blob/4b3b19e0125b4d7f4aa4dd8671b6c2c2db73a761/Resources/Suspension_Coil.csv)
 
-Software - R version 4.2.1 , Tidyvere, dplyr - package.
+# Software
+
+R version 4.2.1 
+
+# Software Packages
+Tidyvere, dplyr
 
 ### Results 
-### Deliverable 1 Linear Regression to Predict MPG.
+## Deliverable 1 Linear Regression to Predict MPG.
 A multiple linear regression was performed using all the six variables. Analyses may be drawn by answering the following questions.
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
